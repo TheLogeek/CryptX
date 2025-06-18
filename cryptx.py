@@ -334,7 +334,7 @@ def program_intro():
 		os.system("""
 		cd -
 		rm -rf CryptX
-		git clone https://github.com/SoloTech01/CryptX
+		git clone https://github.com/TheLogeek/CryptX
 		cd CryptX
 		python3 cryptx.py
 			""")
