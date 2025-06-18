@@ -297,7 +297,7 @@ def program_intro():
 [+] Tool name: Crypt-X
 [+] Author: Solomon Adenuga
 [+] Version: 1.0
-[+] Github: https://github.com/SoloTech01
+[+] Github: https://github.com/TheLogeek
 [+] Whatsapp: +2348023710562
 """)
 	print("******" * 10)
